@@ -1,0 +1,84 @@
+prompts for videos : 
+
+prompt 1 : 
+
+{
+  "project": "Coca-Cola_3D_CGI_Red_Can_Opening",
+  "tool": "Google Flow",
+  "duration": "10s",
+  "aspect_ratio": "9:16",
+  "visual_style": "Ultra-realistic 3D CGI product animation, Octane Render aesthetic, 1000fps Phantom high-speed macro photography, dramatic studio rim lighting, hyper-detailed metallic condensation, dynamic fluid and ice simulation, fast-paced vertical social ad energy",
+  "subject_constraints": "Strictly product-only featuring the iconic glossy red aluminum Coca-Cola can (tin). Zero humans, zero hands, zero body parts. Zero on-screen text, captions, or watermarks except the official white Coca-Cola script logo printed on the red can.",
+  "audio_style": "Hyper-crisp 3D ASMR sound design: sub-bass impact on ice smash, sharp metallic pull-tab snap, high-pressure carbonation hiss, effervescent fizz, energetic percussive beat",
+  "scenes": [
+    {
+      "segment": "0:00 - 0:03",
+      "shot_type": "Extreme Macro 3D CGI Reveal",
+      "visual_prompt": "Ultra-detailed 3D render macro shot of a chilled, vibrant red aluminum Coca-Cola can emerging in slow motion from a dark crimson and obsidian studio void. Hyper-realistic crystal-clear water droplets and frost coat the brushed metallic surface, catching sharp white specular rim lights. The camera glides smoothly across the glistening red aluminum right over the crisp white Coca-Cola script logo.",
+      "camera_movement": "Fast, sleek 3D orbital push-in with shallow depth of field and subtle anamorphic lens flare.",
+      "audio_cue": "Deep cinematic sub-bass riser followed by the crisp metallic chime of cold aluminum."
+    },
+    {
+      "segment": "0:03 - 0:07",
+      "shot_type": "High-Speed 1000fps Fluid & Ice Explosion",
+      "visual_prompt": "Dynamic 3D action sequence as the silver pull-tab on top of the red Coca-Cola can snaps open on its own, releasing an explosive, hyper-detailed burst of cold vapor, shimmering carbonation mist, and spiraling ribbons of dark caramel cola. Crystal-clear geometric ice cubes crash into the frame in zero-gravity slow motion, colliding with splashes of golden-amber backlit soda droplets suspended mid-air around the red tin.",
+      "camera_movement": "Rapid whip-tilt up to the pull-tab snap, then pulling back smoothly as ice and liquid orbit the can in 3D space.",
+      "audio_cue": "Loud, hyper-crisp metallic tab 'crack-psssht', shattering ice impact, and intense sparkling fizz."
+    },
+    {
+      "segment": "0:07 - 0:10",
+      "shot_type": "3D Hero Product Lockup",
+      "visual_prompt": "The red aluminum Coca-Cola can lands upright with heavy impact onto a sleek, wet dark-slate surface, sending a circular shockwave of water droplets and crushed ice outward. Fresh condensation beads down the front of the red tin with the iconic white Coca-Cola branding centered and razor-sharp, surrounded by rising effervescent mist and warm golden-red volumetric backlighting.",
+      "camera_movement": "Punchy micro-shake on impact, locking into a commanding, slightly low-angle hero product shot.",
+      "audio_cue": "Heavy bass drop on landing, lingering crisp carbonation sparkle fading out cleanly."
+    }
+  ],
+  "negative_prompt": "humans, people, hands, fingers, arms, faces, glass bottle, plastic bottle, on-screen text, subtitles, floating letters, captions, distorted Coca-Cola logo, misspelled branding, flat 2D animation, low-poly CGI, dull lighting, warm flat soda, watermark"
+}
+
+prompt 2 : 
+
+{
+  "tool": "Google Flow (Veo)",
+  "clip_type": "3D Ultra Visuals / Pure Product Opening Shot (UGC Ad Hook)",
+  "duration_seconds": 10,
+  "aspect_ratio": "9:16",
+  "resolution": "1080p",
+  "style_and_format": "Ultra-realistic 3D CGI / High-end Cinema 4D & Houdini Beverage Fluid Simulation, Photorealistic Raytraced Commercial Aesthetics",
+  "strict_constraints": {
+    "product_type": "Classic Red Aluminum Coca-Cola Can (Tin)",
+    "humans": "none (strictly zero people, hands, silhouettes, or skin)",
+    "text_or_captions": "none (strictly official Coca-Cola typography and branding on the can only; no titles, subtitles, or watermarks)",
+    "visual_focus": "Pure 3D product cinematography, high-speed fluid dynamics, flowing soft drink waves, micro-condensation, ice and effervescence"
+  },
+  "prompt_segments": [
+    {
+      "timeframe": "00:00 - 00:03",
+      "shot_type": "3D Macro Fluid Simulation & Can Descent (The Cold Splash)",
+      "visual_description": "In an ultra-realistic 3D simulated world, an ice-cold, vibrant Coca-Cola red aluminum can (tin) drops dynamically in extreme slow motion through a vortex of crystalline splashing ice cubes and sweeping waves of dark caramel cola fluid. The camera, in a sweeping orbital macro shot, tracks the spinning red can as huge, photorealistic fluid splashes of fizzy, carbonated dark soda ripple and coil around the base, sending thousands of glistening micro-droplets and golden-caramel bubbles into the air.",
+      "lighting_and_color": "Hyper-realistic raytraced studio lighting, dramatic rim-lit backlighting refracting through amber fluid, deep Coca-Cola red aluminum metallic sheen, specular gleams on ice and liquid."
+    },
+    {
+      "timeframe": "00:03 - 00:06",
+      "shot_type": "Ultra-High-Speed 3D Close-Up (The Can Pop & Flowing Vortex)",
+      "visual_description": "Extreme macro view looking down at the top of the red Coca-Cola can as the pull-tab snaps open autonomously in hyper-slow motion (1000fps simulation feel). A powerful, misty plume of carbonated vapor and sparkling aerosol bursts upward, instantly swirling into a golden-backlit cloud. Immediately, a thick, turbulent, rushing torrent of bubbling dark caramel soda flows and cascades over the top rim of the can and across freezing ice, creating dynamic micro-foam and effervescent rushing liquid currents directly toward the camera.",
+      "lighting_and_color": "Rich volumetric lighting, glowing amber effervescence, high-contrast reflections across red metallic aluminum, macro fluid dynamics with individual surface tension bubbles."
+    },
+    {
+      "timeframe": "00:06 - 00:10",
+      "shot_type": "Cinematic 3D Hero Pull-Back (The Flowing Wave Reveal)",
+      "visual_description": "The camera pulls back smoothly in a dynamic upward tilt to reveal the frosted red Coca-Cola can standing triumphant on a bed of churning, glowing ice. Waves of effervescent, bubbling dark cola dynamically swirl and cascade in low-slung, artistic fluid streams around the base, creating a majestic vortex of refreshing liquid. Crisp, heavy condensation droplets cover the red tin and the iconic white Coca-Cola script logo. The can sits framed in the center, flanked by rising fizzy bubbles, crashing ice shards, and flowing streams of cold beverage against an atmospheric, deeply blurred crimson-and-gold commercial background.",
+      "lighting_and_color": "Ultra-glossy cinematic grading, warm golden rays cutting through dark carbonated fluid and crystalline ice, sharp metallic reflections, hyper-detailed 3D liquid simulation."
+    }
+  ],
+  "audio_design_cues": {
+    "sfx": "Heavy sub-bass impact, dramatic metallic pull-tab snap, explosive compressed gas hiss, rushing roaring fluid surge, sparkling effervescent fizz, ice shattering and churning.",
+    "vibe": "Immersive, visceral, high-energy 3D sensory hook."
+  },
+  "technical_parameters": {
+    "camera_style": "High-end 3D robotic camera moves, sweeping orbital macro, extreme high-speed fluid motion tracking",
+    "frame_rate": "24fps with hyper-slow-motion speed ramps (1000fps simulation look)",
+    "negative_prompt": "humans, hands, fingers, people, faces, glass bottles, cups, extra text, subtitles, superimposed titles, low-res CGI, cartoon, fake physics, plastic, distorted logo, unbranded can"
+  },
+  "copy_paste_flow_prompt": "3D ultra-realistic promotional ad opening, 10 seconds, zero humans, no hands, no people, no text except official Coca-Cola branding. High-end 3D CGI fluid simulation, extreme slow-motion beverage cinematography of a classic red aluminum Coca-Cola can (tin). In 1000fps slow motion, an ice-cold red Coca-Cola can descends and spins through crashing, crystalline ice cubes as huge, sweeping waves of dark, effervescent caramel cola fluid surge and splash around it, sending thousands of glistening micro-bubbles and backlit droplets into the air. Extreme macro close-up of the silver pull-tab autonomously popping open, releasing an explosive burst of cool vapor and fizz, with dark bubbling soft drink cascading over the frosted rim. The camera sweeps back into an epic cinematic hero composition, revealing the dripping red Coca-Cola can standing on churning ice surrounded by dynamic, flowing, swirling currents of carbonated cola liquid. Deep volumetric studio rim lighting, gleaming metallic red aluminum, hyper-realistic fluid dynamics, crystal ice refraction, 8k commercial CGI quality."
+}
